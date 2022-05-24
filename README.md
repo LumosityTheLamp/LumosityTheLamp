@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JoeyWB
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning Godot
+- 
