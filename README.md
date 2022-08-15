@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @JoeyWB
+- 👋 Hi, I’m @LumosityWasTaken
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Godot
-- 
